@@ -1,0 +1,316 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  text-transform: uppercase;
+}
+
+/*navbar*/
+
+.background {
+  background: url("img/learn.png");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.navbar-collapse {
+  justify-content: center !important;
+}
+
+.navbar-nav {
+  align-items: center;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.world {
+  height: 20px !important;
+  width: 20px !important;
+
+  border-radius: 0px !important;
+}
+
+.nft__header-column {
+  margin-top: 200px;
+}
+
+.nft__header {
+  color: white;
+  font-size: 54px;
+}
+
+.nft__header-continuation {
+  color: #901662;
+}
+
+.header__img-low {
+  margin-top: 64px;
+  width: 688px;
+  height: 688px;
+}
+
+.nft__header-text {
+  margin-top: 32px;
+  color: white;
+  font-size: 24px;
+}
+
+.btn-secondary {
+  font-size: 19px !important;
+  background: linear-gradient(95.91deg, #3466a9 4.94%, #901662 98.57%);
+  box-shadow: 0px 0px 2px rgba(217, 50, 154, 0.2),
+    0px 0px 27px rgba(52, 102, 169, 0.5);
+  border-radius: 127px !important;
+}
+
+.cards {
+  margin-top: 58px;
+}
+
+.description__tittle {
+  margin-top: 120px;
+  color: white;
+  text-align: center;
+}
+
+.description__tittle-text {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+}
+
+.description__tittle-continuation {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+}
+
+.cards__continuation {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    linear-gradient(
+      51.04deg,
+      rgba(218, 50, 154, 0.8) 34.51%,
+      rgba(52, 102, 169, 0.8) 57.82%
+    );
+  border-radius: 16px;
+  height: 358px;
+  width: 283px;
+  border-radius: 16px;
+  margin-top: 512px;
+  padding-top: 22px;
+  padding-left: 22px;
+  padding-right: 22px;
+}
+
+.cards__description {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  margin-bottom: 40px;
+}
+
+.cards__photo {
+  margin-left: 75px;
+  margin-bottom: 46px;
+}
+
+.cards__name {
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 12px;
+}
+
+.cards__about {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+}
+
+.our-values {
+  margin-top: 43px;
+}
+
+.our-values__text {
+  color: white;
+  font-size: 24px;
+  text-align: center;
+}
+
+.our-values__continuation {
+  color: white;
+  font-size: 12px;
+  text-align: center;
+}
+
+.third-cards {
+  margin-top: 120px;
+}
+
+.our-perks {
+  margin-top: 43px;
+}
+
+.our-perks__text {
+  color: white;
+  font-size: 32px;
+  text-align: center;
+}
+
+.our-perks__continuation {
+  color: white;
+  font-size: 16px;
+  text-align: center;
+}
+
+.generate-revenue {
+  color: white;
+  font-size: 16px;
+  text-align: center;
+}
+
+.generate-revenue__continuation {
+  color: white;
+  font-size: 12px;
+  text-align: center;
+}
+
+.btn-third {
+  font-size: 19px !important;
+  background: linear-gradient(95.91deg, #3466a9 4.94%, #901662 98.57%);
+  box-shadow: 0px 0px 2px rgba(217, 50, 154, 0.2),
+    0px 0px 27px rgba(52, 102, 169, 0.5);
+  border-radius: 127px !important;
+  margin-top: 32px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.range {
+  justify-content: center;
+}
+
+.ls-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.line-text {
+  color: white;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 4btn0px;
+}
+
+.joining {
+  font-size: 24px;
+  text-align: center;
+  background: linear-gradient(277.42deg, #7799e2 9.11%, #da329a 95.53%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  margin-top: 80px;
+}
+
+.line-text__continuation {
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  margin-top: 32px;
+}
+
+.opensea-text {
+  color: white;
+  font-size: 18px;
+  margin-top: 238px;
+}
+
+.opensea-text__name {
+  color: white;
+  font-size: 15px;
+}
+
+.opensea-text__continuation {
+  color: white;
+  font-size: 15px;
+}
+
+.katie {
+  margin-top: -15px;
+}
+
+.footer__icon {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.footer__images {
+  margin-top: 23px;
+  margin-bottom: 15px;
+}
+
+.venus-text {
+  color: white;
+}
+
+.description__paragraph {
+  color: white;
+}
+
+.chapter {
+  color: white;
+}
+
+.footer {
+  margin-top: 60px;
+}
+.footer__input {
+  display: flex;
+  width: 257px;
+  height: 50px;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 15px;
+}
+
+.footer__search {
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  border: none;
+  border-radius: 15px;
+}
+
+.footer__input-icon {
+  width: 53px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(130.68deg, #da329a -84.8%, #3466a9 134.31%);
+  border-radius: 15px;
+}
+
+.footer__input-icon img {
+}
+
+.footer__search::-webkit-input-placeholder {
+  padding-left: 15px;
+}
